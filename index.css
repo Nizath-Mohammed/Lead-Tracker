@@ -1,0 +1,34 @@
+body{
+    width:400px;
+    height:200px;
+    margin : 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+input{
+    border-color: black;
+    border-radius: 5px;
+    height: 25px;
+    width: 100%;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+}
+button{
+    background-color:black;
+    padding-top: 5px;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom :5px;
+    margin-top:5px;
+}
+li {
+    color:black;
+}
+a {
+    color:black;
+}
