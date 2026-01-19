@@ -29,7 +29,7 @@ Repository for Lead-Tracker.
 - List key features here.
 
 ## Tech Stack
-- List primary technologies used.
+- JavaScript
 
 ## Getting Started
 Prerequisites:
@@ -40,13 +40,12 @@ Prerequisites:
 `ash
 git clone https://github.com/Nizath-Mohammed/Lead-Tracker.git
 cd Lead-Tracker
-# add setup steps here
 `
 
+
+
 ## Usage
-`ash
-# add usage commands here
-`
+
 
 ## Scripts
 - Document useful scripts or commands.
